@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task 9.1p</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" translatable="false">AIzaSyBeuN56RIPHJO5Bo91BVYSUYVuFxmRIzw4</string>
+</resources>
